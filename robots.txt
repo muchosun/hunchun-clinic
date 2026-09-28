@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clinic.hunchun-hunchun.ru/sitemap.xml
