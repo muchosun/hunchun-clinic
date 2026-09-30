@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://clinic.hunchun-hunchun.ru/sitemap.xml
+Sitemap: https://lechenie-v-kitae.hunchun-hunchun.ru/sitemap.xml
